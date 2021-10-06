@@ -1,0 +1,13 @@
+C:\Users\yashi\source\repos\linqExercise\linqExercise\bin\Debug\netcoreapp3.1\linqExercise.exe
+C:\Users\yashi\source\repos\linqExercise\linqExercise\bin\Debug\netcoreapp3.1\linqExercise.deps.json
+C:\Users\yashi\source\repos\linqExercise\linqExercise\bin\Debug\netcoreapp3.1\linqExercise.runtimeconfig.json
+C:\Users\yashi\source\repos\linqExercise\linqExercise\bin\Debug\netcoreapp3.1\linqExercise.runtimeconfig.dev.json
+C:\Users\yashi\source\repos\linqExercise\linqExercise\bin\Debug\netcoreapp3.1\linqExercise.dll
+C:\Users\yashi\source\repos\linqExercise\linqExercise\bin\Debug\netcoreapp3.1\linqExercise.pdb
+C:\Users\yashi\source\repos\linqExercise\linqExercise\obj\Debug\netcoreapp3.1\linqExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yashi\source\repos\linqExercise\linqExercise\obj\Debug\netcoreapp3.1\linqExercise.AssemblyInfoInputs.cache
+C:\Users\yashi\source\repos\linqExercise\linqExercise\obj\Debug\netcoreapp3.1\linqExercise.AssemblyInfo.cs
+C:\Users\yashi\source\repos\linqExercise\linqExercise\obj\Debug\netcoreapp3.1\linqExercise.csproj.CoreCompileInputs.cache
+C:\Users\yashi\source\repos\linqExercise\linqExercise\obj\Debug\netcoreapp3.1\linqExercise.dll
+C:\Users\yashi\source\repos\linqExercise\linqExercise\obj\Debug\netcoreapp3.1\linqExercise.pdb
+C:\Users\yashi\source\repos\linqExercise\linqExercise\obj\Debug\netcoreapp3.1\linqExercise.genruntimeconfig.cache
